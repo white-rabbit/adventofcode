@@ -2,6 +2,7 @@ import numpy as np
 import argparse
 from collections import Counter
 
+
 def solve(f):
     left_column, right_column = [], []
     counter = Counter()
